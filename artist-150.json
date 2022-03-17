@@ -1,0 +1,47 @@
+{
+  "CatalogData": [
+    {
+      "ArtistId": 1,
+      "ArtistName": "Taylor Swift",
+      "Tracks": [
+        {
+          "ReleaseTrackId": 1,
+          "Duration": 295,
+          "TrackTitle": "Teardrops On My Guitar"
+        },
+        {
+          "ReleaseTrackId": 2,
+          "Duration": 300,
+          "TrackTitle": "Tim McGraw"
+        },
+        {
+          "ReleaseTrackId": 3,
+          "Duration": 305,
+          "TrackTitle": "Mean"
+        }
+      ]
+    },
+    {
+      "ArtistId": 2,
+      "ArtistName": "Elton John",
+      "Tracks": [
+        {
+          "ReleaseTrackId": 1,
+          "Duration": 360,
+          "TrackTitle": "Tiny Dance"
+        },
+        {
+          "ReleaseTrackId": 2,
+          "Duration": 200,
+          "TrackTitle": "Love Song"
+        },
+        {
+          "ReleaseTrackId": 3,
+          "Duration": 238,
+          "TrackTitle": "Salvation"
+        }
+      ]
+    }
+  ]
+
+}
