@@ -1,0 +1,5 @@
+1.The task is to create a REST API to load a json file from the data folder and display all the tracks for Taylor Swift - Artist Id 1 
+
+
+
+
